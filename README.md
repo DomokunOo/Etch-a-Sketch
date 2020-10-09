@@ -6,4 +6,6 @@ Had trouble creating loop/forEach for grid-item, creating grids with border, tex
 
 Dealt with trying to store num value to retain grid if prompt value was invalid.
 
+Also had a bit of trouble handling invalid prmopts.
+
 Duration of project: ~3 days.
